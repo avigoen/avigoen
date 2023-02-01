@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a full-stack developer with 3 years of experience in React, C#, NodeJS, and Python. My cloud experience is in AWS and I am looking forward to working on Computer Vision, Natural Language Processing for my career.
 
 # 💫 About Me:
-🔭 I’m currently working on face recognition using unsupervised learning
-<br>👯 I’m looking to collaborate on computer vision
-<br>🌱 I’m currently learning Data Structures & Algorithms
-<br>💬 Ask me about python
+* 🌍  I'm based in Navi Mumbai, Maharashtra, India
+* ✉️  You can contact me at [avinashgoen@hotmail.com](mailto:avinashgoen@hotmail.com)
+* 🧠  I'm learning Computer Vision
+* 🤝  I'm open to collaborating on Computer Vision
 
 
 ## 🌐 Socials:
