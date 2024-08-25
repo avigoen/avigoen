@@ -1,13 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Avinash Goen
 ====================================================================================================================================
 
-I am a full-stack developer with 3 years of experience in React, C#, NodeJS, and Python. My cloud experience is in AWS and I am looking forward to working on Computer Vision, Natural Language Processing for my career.
+I am passionate about leveraging Generative AI and Deep Learning to drive innovation in enterprise applications. With a strong foundation in Python, I specialize in developing and integrating machine learning solutions that transform complex data into actionable insights.
+My expertise extends to full-stack development, utilizing ReactJS and NodeJS to create seamless user experiences and robust backend systems. I thrive on tackling challenging problems and leading teams to deliver impactful features that enhance business success.
 
 # 💫 About Me:
 * 🌍  I'm based in Navi Mumbai, Maharashtra, India
 * ✉️  You can contact me at [avinashgoen@hotmail.com](mailto:avinashgoen@hotmail.com)
-* 🧠  I'm learning Computer Vision
-* 🤝  I'm open to collaborating on Computer Vision
+* 🧠  I'm learning and developing Generative AI-based Applications
+* 🤝  I'm open to collaborating on GenAI applications, and its relevant tools.
 
 
 ## 🌐 Socials:
